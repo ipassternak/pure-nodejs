@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS versys;
+CREATE DATABASE versys OWNER postgres;
